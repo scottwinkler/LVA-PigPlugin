@@ -1,8 +1,0 @@
-name: PigPlugin
-version: 1.0
-api-version: 1.16
-main: org.livermorevalleyacademy.PigPlugin.Main
-commands:
-  pig:
-    description: Summons a swift pig
-    usage: "Usage: '/pig' to run command"
